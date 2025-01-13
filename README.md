@@ -1,5 +1,4 @@
-**Hi there, I'm [Alpi Kurniawan] 👋**
-
+**Hi there, I'm Alpi Kurniawan 👋**
 Welcome to my GitHub profile! Here's a bit about me:
 
 
@@ -28,6 +27,8 @@ Project Name 2: Another description showcasing your skills.
 
 **📈 GitHub Stats**
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alpiawo&show_icons=true&theme=radical)
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpiawo&layout=compact&theme=radical)
 
