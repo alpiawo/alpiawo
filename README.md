@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f8193f9d-acb0-4f41-9f25-f956a4547ace)**Hi there, I'm [Alpi Kurniawan] 👋**
+**Hi there, I'm [Alpi Kurniawan] 👋**
 
 Welcome to my GitHub profile! Here's a bit about me:
 
@@ -27,10 +27,9 @@ Project Name 2: Another description showcasing your skills.
 - Email: alpiyangini.com
 
 **📈 GitHub Stats**
-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alpiawo&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alpiawo&show_icons=true&theme=radical)
 
-
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpiawo&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpiawo&layout=compact&theme=radical)
 
 **🔗 Fun Fact**
 Did you know that..., I like to hum along the way🎶
