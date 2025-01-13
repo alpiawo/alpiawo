@@ -21,9 +21,9 @@ Project Name 2: Another description showcasing your skills.
 
 - Telegram: [@apiawwoka](https://t.me/apiawwoka)
 
-- Instagram: [https://instagram.com/luqmanalfi_](https://www.instagram.com/luqmanalfi_/)
+- Instagram: [@luqmanalfi_](https://www.instagram.com/luqmanalfi_/)
 
-- Email: alpiyangini.com
+- Email: [alpiyanginigmail.com](https://alpiyangini@gmail.com)
 
 **📈 GitHub Stats**
 - ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alpiawo&show_icons=true&theme=radical)
