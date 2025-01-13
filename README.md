@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @alpiawo
-- 👀 I’m interested in software, especially in web and application development
-- 🌱 I’m currently learning develop applications with Flutter, and deepen my knowledge of programming. 
-- 📫 How to reach me, Email: alpiyangini@gmail.com
-- ⚡ Fun fact: when I'm riding a means of transportation, my mouth can't stop singing
+![image](https://github.com/user-attachments/assets/f8193f9d-acb0-4f41-9f25-f956a4547ace)**Hi there, I'm [Alpi Kurniawan] 👋**
 
-<!---
-alpiawo/alpiawo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! Here's a bit about me:
+
+
+
+**📊 About Me**
+
+🔧 Tech Enthusiast with a passion for building applications that solve real-world problems.
+
+- 🌐 I enjoy working with Next.js, React.Js, Node.Js, ASP .NET, and MySQL.
+
+- 🛠 Exploring new technologies and continuously learning.
+
+**🎨 Projects**
+
+Project Name 1: A brief description of your project.
+
+Project Name 2: Another description showcasing your skills.
+
+**💬 Let's Connect!**
+
+- Telegram: [@apiawwoka](https://t.me/apiawwoka)
+
+- Instagram: [https://instagram.com/luqmanalfi_](https://www.instagram.com/luqmanalfi_/)
+
+- Email: alpiyangini.com
+
+**📈 GitHub Stats**
+- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alpiawo&show_icons=true&theme=radical)
+
+
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpiawo&layout=compact&theme=radical)
+
+**🔗 Fun Fact**
+Did you know that..., I like to hum along the way🎶
