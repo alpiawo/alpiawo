@@ -23,7 +23,7 @@ Project Name 2: Another description showcasing your skills.
 
 - Instagram: [@luqmanalfi_](https://www.instagram.com/luqmanalfi_/)
 
-- Email: [alpiyanginigmail.com](https://alpiyangini@gmail.com)
+- Email: [alpiyangini](https://alpiyangini@gmail.com)
 
 **📈 GitHub Stats**
 - ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alpiawo&show_icons=true&theme=radical)
