@@ -11,11 +11,6 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 - 🛠 Exploring new technologies and continuously learning.
 
-**🎨 Projects**
-
-Project Name 1: A brief description of your project.
-
-Project Name 2: Another description showcasing your skills.
 
 **💬 Let's Connect!**
 
