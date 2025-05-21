@@ -25,6 +25,3 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpiawo&layout=compact&theme=radical)
-
-**🔗 Fun Fact**
-Did you know that..., I like to hum along the way🎶
