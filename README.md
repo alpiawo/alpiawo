@@ -45,12 +45,6 @@
 
 ---
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alpiawo&theme=radical&no-frame=true&title=Stars,Commits,Repositories,PullRequest"/>
-</p>
-
 ---
 
 ### 🌐 Let’s Connect
