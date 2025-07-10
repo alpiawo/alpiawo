@@ -77,7 +77,7 @@
 <div align="center">
   <img src="https://c.tenor.com/qwhQZ8hTSakAAAAC/tenor.gif" width="200"/>
   <img src="https://c.tenor.com/3SWIA_vd4f0AAAAC/tenor.gif" width="200"/>
-  <img src="https://c.tenor.com/3SWIA_vd4f0AAAAC/tenor.gif" width="200"/>
+  <img src="https://i.giphy.com/Q5Ra0QQUpPYdlFmFrj.webp" width="200"/>
 </div>
 
 ---
