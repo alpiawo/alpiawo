@@ -35,8 +35,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alpiawo&show_icons=true&theme=radical&hide_border=true&count_private=true" width="70%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpiawo&layout=compact&theme=radical&hide_border=true" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alpiawo&show_icons=true&theme=radical&hide_border=true&count_private=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpiawo&layout=compact&theme=radical&hide_border=true" width="40%" />
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
   <img src="https://media.giphy.com/media/xThtab4bLbOiyGz3Ne/giphy.gif" width="200"/>
-  <img src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
 </div>
 
 ---
