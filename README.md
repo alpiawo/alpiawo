@@ -75,9 +75,9 @@
 ### 🎁 Random Fun
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/xThtab4bLbOiyGz3Ne/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/xThtab4bLbOiyGz3Ne/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
 </div>
 
 ---
