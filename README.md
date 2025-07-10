@@ -35,12 +35,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alpiawo&show_icons=true&theme=radical&hide_border=true&count_private=true" height=200 width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpiawo&layout=compact&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alpiawo&show_icons=true&theme=radical&hide_border=true&count_private=true" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpiawo&layout=compact&theme=radical&hide_border=true" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alpiawo&theme=radical&hide_border=true" width="95%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alpiawo&theme=radical&hide_border=true" width="70%"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alpiawo&theme=radical&no-frame=true&title=Stars,Commits,Repositories,Followers,Issues,PullRequest"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=alpiawo&theme=radical&no-frame=true&title=Stars,Commits,Repositories,PullRequest"/>
 </p>
 
 ---
@@ -72,8 +72,14 @@
 
 ---
 
-> 🎯 *“Keep building, keep learning — one line of code at a time.”*
+### 🎁 Random Fun
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xThtab4bLbOiyGz3Ne/giphy.gif" width="250"/>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/xThtab4bLbOiyGz3Ne/giphy.gif" width="200"/>
+  <img src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
+</div>
+
+---
+
+> 🎯 *“Keep building, keep learning — one line of code at a time.”*
