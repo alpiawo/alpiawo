@@ -73,7 +73,6 @@
 
 ---
 
-### 🎁 Random Fun
 
 <div align="center">
   <img src="https://c.tenor.com/qwhQZ8hTSakAAAAC/tenor.gif" width="200"/>
